@@ -10,7 +10,7 @@
  * Text Domain:       team-member
  *
  * Version number is automatically adjusted by semantic-release-bot on release, do not adjust manually:
- * Version: 1.0.0
+ * Version: 1.1.0
  *
  * @package           create-block
  */
