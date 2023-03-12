@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.2.1](https://github.com/MGPelloni/team-member/compare/v1.2.0...v1.2.1) (2023-03-12)
+
+
+### Bug Fixes
+
+* optional chaining for media url ([3c9e1cb](https://github.com/MGPelloni/team-member/commit/3c9e1cb1348fddf12f2920ed69dba47bd5fca27f))
+
 # [1.2.0](https://github.com/MGPelloni/team-member/compare/v1.1.0...v1.2.0) (2023-03-12)
 
 
