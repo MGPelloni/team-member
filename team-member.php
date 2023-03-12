@@ -4,11 +4,13 @@
  * Description:       Display a team member with an image, name, title, and biography.
  * Requires at least: 6.0
  * Requires PHP:      7.4
- * Version: 1.0.0
  * Author:            Marco Pelloni
  * License:           GPL-3.0
  * License URI:       https://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain:       team-member
+ *
+ * Version number is automatically adjusted by semantic-release-bot on release, do not adjust manually:
+ * Version: 1.0.0
  *
  * @package           create-block
  */
