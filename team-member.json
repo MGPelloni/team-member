@@ -1,0 +1,11 @@
+{
+	"name": "Team Member",
+	"version": "0.1.0",
+	"download_url": "https://marcopelloni.com/releases/team-member.zip",
+	"homepage": "https://marcopelloni.com/releases/team-member/",
+	"author": "Marco Pelloni",
+	"sections" : {
+		"description" : "Display a team member with an image, name, title, and biography."
+	},
+	"author_homepage": "https://marcopelloni.com/"
+}

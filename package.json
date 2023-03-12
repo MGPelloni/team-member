@@ -1,0 +1,30 @@
+{
+	"name": "team-member",
+	"version": "0.0.0-semantic-release",
+	"description": "Display a team member with an image, name, title, and biography.",
+	"author": "Marco Pelloni",
+	"license": "GPL-3.0",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^25.3.0",
+		"@google/semantic-release-replace-plugin": "^1.1.0",
+		"@semantic-release/changelog": "^6.0.1",
+		"@semantic-release/commit-analyzer": "^9.0.2",
+		"@semantic-release/exec": "^6.0.3",
+		"@semantic-release/git": "^10.0.1",
+		"@semantic-release/release-notes-generator": "^10.0.3",
+		"semantic-release": "^19.0.5"
+	},
+	"dependencies": {
+		"classnames": "^2.3.2"
+	}
+}

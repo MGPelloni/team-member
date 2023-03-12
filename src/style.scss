@@ -1,0 +1,38 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.team-member-block {
+	display: grid;
+	grid-template-columns: 250px auto;
+	grid-gap: 35px;
+
+	&.-no-image {
+		grid-template-columns: auto;
+	}
+
+	@media (max-width: 600px) {
+		grid-template-columns: auto;
+	}
+}
+
+.team-member-name {
+	margin: 0;
+}
+
+.team-member-title {
+	text-transform: uppercase;
+	opacity: 0.7;
+	margin: 0;
+}
+
+.team-member-description {
+	margin: 20px 0 0;
+}
+
+.team-member-image {
+	font-size: 0;
+}
