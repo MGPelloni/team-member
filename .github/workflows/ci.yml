@@ -23,7 +23,7 @@ jobs:
       run: |
         npm install
         npm install gulp
-        npm run compile
+        npm run build
   release:
     name: release
     runs-on: ubuntu-latest
