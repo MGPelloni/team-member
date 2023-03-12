@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.2.0](https://github.com/MGPelloni/team-member/compare/v1.1.0...v1.2.0) (2023-03-12)
+
+
+### Features
+
+* plugin update checker ([d5a6a61](https://github.com/MGPelloni/team-member/commit/d5a6a61a4d6579330c5c30140dfb0f34dc982103))
+
 # [1.1.0](https://github.com/MGPelloni/team-member/compare/v1.0.0...v1.1.0) (2023-03-12)
 
 
