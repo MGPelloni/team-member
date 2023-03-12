@@ -26,3 +26,13 @@ function create_block_team_member_block_init() {
 	register_block_type( __DIR__ . '/build' );
 }
 add_action( 'init', 'create_block_team_member_block_init' );
+
+// Updates
+require_once(plugin_dir_path( __FILE__ ) . 'includes/plugin-update-checker-5.0/plugin-update-checker.php');
+use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
+
+$myUpdateChecker = PucFactory::buildUpdateChecker(
+	'https://marcopelloni.com/releases/team-member.json',
+	__FILE__,
+	'team-member'
+);
