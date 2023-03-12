@@ -38,7 +38,7 @@ export default function Edit({ attributes, setAttributes }) {
 			return;
 		}
 		setAttributes({
-			imageUrl: media.sizes.large.url ?? media.url,
+			imageUrl: media.sizes?.large.url ?? media.url,
 			imageId: media.id,
 			imageAlt: media?.alt,
 		});
