@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.1.0](https://github.com/MGPelloni/team-member/compare/v1.0.0...v1.1.0) (2023-03-12)
+
+
+### Features
+
+* **build:** semantic versioning disclaimer ([5eaabc5](https://github.com/MGPelloni/team-member/commit/5eaabc5939ebafafd3d2fe350f4dd402e6f43c23))
+
 # 1.0.0 (2023-03-12)
 
 
